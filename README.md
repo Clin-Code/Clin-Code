@@ -1,6 +1,6 @@
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/ClinCode%20Banner.png)
-<h1 align="center">Hi 👋, I'm Ashutosh Mishra</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+![logo](https://github.com/Clin-Code/Clin-Code/blob/main/ClinCode%20Banner.png)
+<h1 align="center">Hi 👋, I'm Clinton Omondi</h1>
+<h3 align="center">A Sel-motivated Fullstack Developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
