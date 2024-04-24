@@ -4,12 +4,12 @@
 <h3 align="center">A Self-motivated Fullstack Developer</h3>
 <h5 align="center"> :star: :star: :star: :star: :star:  </h5>
 <p align="center">Completed the full-stack development bootcamp on Udemy. <br> Completed AWS Restart Program </p>
+<img align="center" alt="coding" width="400" src="https://github.com/Clin-Code/Clin-Code/blob/main/heroimage.jpg">
 
 - ⚡Coding Wizard by day :computer:
 - ⚡Meme Connoisseur by night :smile:
 - ⚡ Fun fact **I love music** :guitar:
 
-<img align="center" alt="coding" width="400" src="https://github.com/Clin-Code/Clin-Code/blob/main/heroimage.jpg">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -49,7 +49,7 @@
   </a>
 </p>
 
-<img align="left" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="center" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <h3 align="left">Support:</h3>
 <p><a href="https://buymeacoffee.com/clincode"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="clin code" /></a></p><br><be>
