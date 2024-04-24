@@ -1,7 +1,7 @@
 ![logo](https://github.com/Clin-Code/Clin-Code/blob/main/ClinCode%20Banner.png)
 <h1 align="center">Hi 👋, I'm Clinton Omondi</h1>
 <h3 align="center">A Self-motivated Fullstack Developer</h3>
-<h4 align="center">A full-stack developer who has completed the complete full-stack development bootcamp on Udemy.</h4>
+<p align="center">A full-stack developer who has completed the complete full-stack development bootcamp on Udemy.</p>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"><p align="left"> <img src="https://komarev.com/ghpvc/?username=clin-code&label=Profile%20views&color=0e75b6&style=flat" alt="clin-code" /> </p>
 
