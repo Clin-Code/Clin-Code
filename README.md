@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, I'm Clinton Omondi</h1>
 <h3 align="center">A Self-motivated Fullstack Developer</h3>
 
-<img align="bottom" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=clin-code&label=Profile%20views&color=0e75b6&style=flat" alt="clin-code" /> </p>
+<img align="bottom" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"><p align="left"> <img src="https://komarev.com/ghpvc/?username=clin-code&label=Profile%20views&color=0e75b6&style=flat" alt="clin-code" /> </p>
 
 - ⚡Coding Wizard by day :computer:
 - ⚡Meme Connoisseur by night :smile:
