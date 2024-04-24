@@ -9,7 +9,8 @@
 - ⚡Meme Connoisseur by night :smile:
 - ⚡ Fun fact **I love music** :guitar:
 
-![header image](https://github.com/Clin-Code/Clin-Code/blob/main/heroimage.jpeg)
+
+![header image]<img align="center" alt="coding" width="400" src="https://github.com/Clin-Code/Clin-Code/blob/main/heroimage.jpeg">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
