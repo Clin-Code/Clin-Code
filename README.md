@@ -5,6 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clin-code&label=Profile%20views&color=0e75b6&style=flat" alt="clin-code" /> </p>
 
+![logo](https://github.com/Clin-Code/Clin-Code/blob/main/ClinCode%20Banner.png)
 
 - ⚡ Fun fact **I love music**
 
