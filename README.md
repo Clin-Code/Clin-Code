@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Clinton Omondi</h1>
 <h3 align="center">A Self-motivated Fullstack Developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-![image](https://github.com/Clin-Code/Clin-Code/blob/main/ClinCode%20Banner.png)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=clin-code&label=Profile%20views&color=0e75b6&style=flat" alt="clin-code" /> </p>
+
 
 - ⚡ Fun fact **I love music**
 
@@ -49,7 +49,7 @@
 
 <h3 align="left">Support:</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=clin-code&label=Profile%20views&color=0e75b6&style=flat" alt="clin-code" /> </p>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p><a href="https://buymeacoffee.com/clincode"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="clin code" /></a></p><br><br>
 
