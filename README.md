@@ -4,7 +4,7 @@
 <h3 align="center">A Self-motivated Fullstack Developer</h3>
 <h5 align="center"> :star: :star: :star: :star: :star:  </h5>
 <p align="center">Completed the full-stack development bootcamp on Udemy. <br> Completed AWS Restart Program </p>
-<img align="center" alt="coding" width="400" src="https://github.com/Clin-Code/Clin-Code/blob/main/heroimage.jpg">
+<img align="right" alt="coding" width="400" src="https://github.com/Clin-Code/Clin-Code/blob/main/heroimage.jpg">
 
 - ⚡Coding Wizard by day :computer:
 - ⚡Meme Connoisseur by night :smile:
